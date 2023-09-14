@@ -6,20 +6,20 @@ My name is Diep Nguyen. I graduated in 2020 with the ability to conduct scientif
 
 
 
-<a href="https://github.com/uvipen/QuickDraw/">
+<a href="https://github.com/dieppnguyen/Explore-Ecommerce-Dataset/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
 </a>    
-<a href="https://github.com/uvipen/ASCII-generator/">
+<a href="https://github.com/dieppnguyen/Superstore-Sales/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
 </a>
 
-<a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
+<a href="https://github.com/dieppnguyen/Cohort-Analysis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
 </a>    
-<a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/">
+<a href="https://github.com/dieppnguyen/Data-Wrangling/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
 </a>
