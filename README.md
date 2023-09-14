@@ -8,7 +8,7 @@ My name is Diep Nguyen. I graduated in 2020 with the ability to conduct scientif
 
 <a href="https://github.com/dieppnguyen/Explore-Ecommerce-Dataset/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dieppnguyen&repo=Explore-Ecommerce-Dataset&theme=radical" />
 </a>    
 <a href="https://github.com/dieppnguyen/Superstore-Sales/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
