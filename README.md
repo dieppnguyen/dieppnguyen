@@ -24,16 +24,4 @@ My name is Diep Nguyen. I graduated in 2020 with the ability to conduct scientif
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dieppnguyen&repo=Data-Wrangling&theme=dark" />
 </a>
 
-<a href="https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
-</a>    
-<a href="https://github.com/uvipen/Tetris-deep-Q-learning-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
-</a>
-
-<a href="https://github.com/uvipen/AirGesture/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=AirGesture&theme=synthwave" />
-</a>    
+ 
