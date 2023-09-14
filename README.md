@@ -12,16 +12,16 @@ My name is Diep Nguyen. I graduated in 2020 with the ability to conduct scientif
 </a>    
 <a href="https://github.com/dieppnguyen/Superstore-Sales/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dieppnguyen&repo=Superstore-Sales&theme=merko" />
 </a>
 
 <a href="https://github.com/dieppnguyen/Cohort-Analysis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dieppnguyen&repo=Cohort-Analysis&theme=gruvbox" />
 </a>    
 <a href="https://github.com/dieppnguyen/Data-Wrangling/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dieppnguyen&repo=Data-Wrangling&theme=dark" />
 </a>
 
 <a href="https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/">
